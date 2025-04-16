@@ -4,35 +4,39 @@
     "url": "https://kirillorlov.pro",
     "icon": "https://icons.duckduckgo.com/ip3/kirillorlov.pro.ico",
     "slug": "main-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 646,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 646,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 576,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   },
   {
     "name": "Status",
     "url": "https://status.kirillorlov.pro",
     "icon": "https://icons.duckduckgo.com/ip3/status.kirillorlov.pro.ico",
     "slug": "status",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 935,
-    "timeWeek": 935,
-    "timeMonth": 935,
-    "timeYear": 935,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 816,
+    "timeDay": 816,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   }
 ]

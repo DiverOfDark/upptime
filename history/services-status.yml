@@ -1,7 +1,7 @@
 url: https://status.kirillorlov.pro
-status: up
-code: 200
-responseTime: 603
-lastUpdated: 2025-09-28T07:35:56.082Z
+status: down
+code: 502
+responseTime: 351
+lastUpdated: 2025-09-28T07:49:44.224Z
 startTime: 2025-04-18T12:00:42.837Z
 generator: Upptime <https://github.com/upptime/upptime>

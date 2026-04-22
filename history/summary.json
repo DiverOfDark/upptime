@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.94%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.78%",
     "time": 657,
-    "timeDay": 454,
-    "timeWeek": 484,
-    "timeMonth": 477,
-    "timeYear": 658,
+    "timeDay": 594,
+    "timeWeek": 506,
+    "timeMonth": 492,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2026-04-14": 23,
       "2026-03-21": 46,
@@ -42,8 +42,7 @@
       "2025-05-14": 16,
       "2025-05-06": 482,
       "2025-04-24": 1046,
-      "2025-04-23": 1387,
-      "2025-04-22": 92
+      "2025-04-23": 1387
     }
   },
   {
@@ -52,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.kirillorlov.pro.ico",
     "slug": "services-status",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.77%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.44%",
-    "time": 853,
-    "timeDay": 502,
-    "timeWeek": 494,
-    "timeMonth": 492,
+    "time": 852,
+    "timeDay": 484,
+    "timeWeek": 499,
+    "timeMonth": 503,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2026-04-14": 53,
@@ -101,8 +100,7 @@
       "2025-05-14": 16,
       "2025-05-06": 482,
       "2025-04-24": 1046,
-      "2025-04-23": 1387,
-      "2025-04-22": 92
+      "2025-04-23": 1387
     }
   }
 ]

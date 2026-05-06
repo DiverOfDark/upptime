@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kirillorlov.pro.ico",
     "slug": "kirill-orlov-pro-main",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.26%",
     "time": 654,
-    "timeDay": 406,
-    "timeWeek": 503,
-    "timeMonth": 523,
+    "timeDay": 554,
+    "timeWeek": 501,
+    "timeMonth": 520,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2026-04-14": 23,
@@ -39,8 +39,7 @@
       "2025-07-21": 36,
       "2025-07-10": 264,
       "2025-06-08": 21,
-      "2025-05-14": 16,
-      "2025-05-06": 482
+      "2025-05-14": 16
     }
   },
   {
@@ -55,8 +54,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.92%",
     "time": 844,
-    "timeDay": 404,
-    "timeWeek": 468,
+    "timeDay": 594,
+    "timeWeek": 473,
     "timeMonth": 495,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -96,8 +95,7 @@
       "2025-05-29": 132,
       "2025-05-18": 36,
       "2025-05-17": 2,
-      "2025-05-14": 16,
-      "2025-05-06": 482
+      "2025-05-14": 16
     }
   }
 ]

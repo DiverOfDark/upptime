@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kirillorlov.pro.ico",
     "slug": "kirill-orlov-pro-main",
     "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.07%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.65%",
     "time": 644,
     "timeDay": 630,
     "timeWeek": 673,
@@ -37,7 +37,8 @@
       "2026-07-03": 24,
       "2026-07-06": 15,
       "2026-07-05": 38,
-      "2026-08-28": 137
+      "2026-08-28": 139,
+      "2026-08-29": 34
     }
   },
   {
@@ -47,10 +48,10 @@
     "slug": "services-status",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "87.95%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.30%",
     "time": 825,
     "timeDay": 737,
     "timeWeek": 749,
@@ -88,7 +89,8 @@
       "2026-07-03": 23,
       "2026-07-06": 15,
       "2026-07-05": 38,
-      "2026-08-28": 137
+      "2026-08-28": 139,
+      "2026-08-29": 34
     }
   }
 ]

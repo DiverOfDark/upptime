@@ -4,17 +4,17 @@
     "url": "https://kirillorlov.pro",
     "icon": "https://icons.duckduckgo.com/ip3/kirillorlov.pro.ico",
     "slug": "kirill-orlov-pro-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.57%",
-    "time": 649,
-    "timeDay": 1024,
-    "timeWeek": 689,
-    "timeMonth": 685,
-    "timeYear": 678,
+    "time": 656,
+    "timeDay": 3417,
+    "timeWeek": 1329,
+    "timeMonth": 813,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-09-26": 30,
       "2025-09-29": 28,
@@ -38,7 +38,8 @@
       "2026-08-28": 139,
       "2026-08-29": 41,
       "2026-09-01": 229,
-      "2026-09-05": 295
+      "2026-09-05": 295,
+      "2026-09-19": 0
     }
   },
   {
@@ -46,17 +47,17 @@
     "url": "https://status.kirillorlov.pro",
     "icon": "https://icons.duckduckgo.com/ip3/status.kirillorlov.pro.ico",
     "slug": "services-status",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "99.13%",
     "time": 841,
-    "timeDay": 1130,
-    "timeWeek": 803,
-    "timeMonth": 867,
-    "timeYear": 869,
+    "timeDay": 847,
+    "timeWeek": 773,
+    "timeMonth": 860,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2025-09-26": 30,
       "2025-09-27": 25,
@@ -91,7 +92,8 @@
       "2026-08-29": 41,
       "2026-09-01": 229,
       "2026-09-03": 253,
-      "2026-09-05": 509
+      "2026-09-05": 509,
+      "2026-09-19": 0
     }
   }
 ]
